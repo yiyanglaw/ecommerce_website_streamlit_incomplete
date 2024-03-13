@@ -158,7 +158,7 @@ def main():
                 background-size: cover;
             }
             /* Change font color to white */
-            .stButton, .stTextInput, .stText {
+             .stTextInput, .stText {
                 color: white !important;
             }
         </style>
