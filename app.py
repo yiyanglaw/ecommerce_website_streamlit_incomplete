@@ -351,6 +351,9 @@ def show_product_page(product_id, name, qty, price, color, description):
                 background-image: url('https://browsecat.art/sites/default/files/a-road-5k-wallpapers-41105-2616-8136744.png');
                 background-size: cover;
             }
+            .stTextInput, .stText {
+                color: white !important;
+            }
         </style>
         """,
         unsafe_allow_html=True
